@@ -25,7 +25,7 @@ Potential tenants can search for nice flats, schedule secure meetings, book and 
 - React
 - Vue.js
 - MongoDB
-- PostgresSQL
+- PostgreSQL
 
 ### How we work
 
