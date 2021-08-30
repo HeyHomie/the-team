@@ -7,7 +7,7 @@ The Homiengineering team is diverse and fully-distributed. We believe in teamwor
 # Join our team as a Back-end Engineer
 We're looking for Back-end Engineers to join the Homiengineering team to help us push the envelope of what's possible in the proptech industry in LATAM. You'll work with a top-notch team, tackling interesting problems that affect (in a good way) the lives of many people — and have fun while doing so.
 
-We're building the new genration of proptech tools on modern web technologies, such as TypeScript, Vue.js and React.js. 
+We're building the new genration of proptech tools on modern and trusted web technologies, such as Ruby on Rails, PostgreSQL and Kubernetes.
 
 ### Your day-to-day reponsibilities
 - Collaborate with Product Managers, Experience Designers and Backend Engineers to design and deliver high-quality products on web and mobile
